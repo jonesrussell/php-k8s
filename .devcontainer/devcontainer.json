@@ -42,6 +42,11 @@
 			"plugins": "ssh-agent npm",
 			"omzPlugins": "https://github.com/zsh-users/zsh-autosuggestions",
 			"username": "vscode"
+		},
+		"ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {
+			"version": "latest",
+			"helm": "latest",
+			"minikube": "latest"
 		}
 	},
 
