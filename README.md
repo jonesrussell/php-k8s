@@ -19,7 +19,7 @@ PHP K8s
 
 Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
-For Laravel projects, you might want to use [renoki-co/laravel-php-k8s](https://github.com/renoki-co/laravel-php-k8s) which eases the access for this particular case.
+For Laravel projects, you might want to use [jonesrussell/laravel-php-k8s](https://github.com/jonesrussell/laravel-php-k8s) which eases the access for this particular case.
 
 ## 🤝 Supporting
 
@@ -43,7 +43,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## 🔒  Security
 
-If you discover any security related issues, please email alex@renoki.org instead of using the issue tracker.
+If you discover any security related issues, please use the issue tracker.
 
 ## 🎉 Credits
 
